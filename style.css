@@ -43,7 +43,7 @@ p{
     background-image: url(images/shapes/Frame\ 56.jpg);
     background-repeat: no-repeat;
 }
-.recipies{
+.recipes{
     width: 40%;
     margin-left: 5%;
     margin-right: 5%;
@@ -63,6 +63,6 @@ p{
 .gray color{
     color: gray;
 }
-.recipies img{
+.recipes img{
     width: 80%;
 }
